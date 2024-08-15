@@ -1,0 +1,45 @@
+{
+    "items":
+    [
+    {
+        "id": 1,
+        "restaurant": "Chipotle",
+        "cuisine": "Mexican",
+        "pref": "Paleo",
+        "item": "Paleo Bowl",
+        "calories": 400
+    },
+    {
+        "id": 2,
+        "restaurant": "Chipotle",
+        "cuisine": "Mexican",
+        "pref": "Whole30",
+        "item": "Whole30 Bowl",
+        "calories": 500
+    },
+    {
+        "id": 3,
+        "restaurant": "Jimmy John's",
+        "cuisine": "American",
+        "pref": "Gluten-Free",
+        "item": "Lettuce Wrap",
+        "calories": 350
+    },
+    {
+        "id": 4,
+        "restaurant": "Sakanaya",
+        "cuisine": "Japanese",
+        "pref": "Gluten-Free",
+        "item": "Salmon Roll",
+        "calories": 300
+    },
+    {
+        "id": 5,
+        "restaurant": "Panera Bread",
+        "cuisine": "American",
+        "pref": "Vegetarian",
+        "item": "Apple Crunch Salad",
+        "calories": 250
+    }
+]
+}
