@@ -31,7 +31,7 @@ export default function FoodMap() {
   const [openD, setOpenD] = useState(false);
 
   return (
-    <APIProvider apiKey='AIzaSyCyK_rZxTJT0llQyijki3mKiNGfgxp-_wQ'>
+    <APIProvider apiKey=''>    // Will need new API key for this to function again
       <div style={{ height: "50vh", width: "100%" }}>
         <Map zoom={14} center={champaign} mapId={'foodmap'}>
           <AdvancedMarker position={potbelly} onClick={() => setOpenP(true)}>
