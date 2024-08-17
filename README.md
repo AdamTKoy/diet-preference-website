@@ -14,8 +14,6 @@ The app allows you to filter our food database for the following:
 
 Or any combination of the above
 
-For more details, visit the full project proposal [here](https://docs.google.com/document/d/1r9iDsmYDmg29wUgSgtQXoVJTKZomQj4YTqmPwVZhLJo/edit?usp=sharing).
-
 # Technical Architecture
 
 ![Food Filter App Technical Architecture](https://github.com/CS222-UIUC-FA23/group-project-team25/assets/116566710/093a4ae2-88a9-4ac9-9ab4-c9cf871ac8d2)
@@ -27,9 +25,5 @@ For more details, visit the full project proposal [here](https://docs.google.com
 - **Demetri Shmidt**: Worked on collecting data and on filtering menu items
 - **Kiernan Shannon**: Worked on creating restaurant objects and on filtering restaurants
 - **Michael Kreiger**: Worked on creating menu item objects and on handling data received from the frontend
-
-# Environment Setup
-
-To be filled in once determined
 
 
